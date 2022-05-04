@@ -1,3 +1,18 @@
+@font-face {
+    font-family: "Geometr415 Blk BT";
+    src: url(fonts/Geometr415\ Blk\ BT\ Black.ttf);
+}
+
+@font-face {
+    font-family: Bahnschrift;
+    src: url(fonts/bahnschrift.ttf);
+}
+
+@font-face {
+    font-family: "Embassy BT";
+    src: url(fonts/Embassy\ BT.ttf);
+}
+
 html{
     background: rgb(14, 14, 14);
     margin: 0; 
