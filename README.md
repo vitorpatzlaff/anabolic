@@ -1,4 +1,4 @@
-# Anabolic
+# Anabolics
 ### English
 This is a very simple project. At first, it was an image that I made on CorelDRAW and, when I was learning the basic about front-end, I decided to 'convert' this image in a project using html and css.
 #### Access it in: ```LINK```
