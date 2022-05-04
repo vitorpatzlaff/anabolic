@@ -1,0 +1,190 @@
+html{
+    background: rgb(14, 14, 14);
+    margin: 0; 
+}
+
+body{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 1074px;
+    height: 1494px;
+    background: linear-gradient(to bottom, rgb(0, 154, 61) 10%, rgb(0, 255, 0) 30%, rgb(0, 154, 61) 90%, rgb(0, 255, 0) 100%);
+    margin: 0;
+    border: 3px solid rgb(0, 154, 61);
+
+    transform: translate(-50%, -50%);
+}
+
+header{
+    position: absolute;
+    height: 328px;
+    width: 100%;
+    border-bottom: 8px solid rgb(255, 204, 65); 
+    margin: 0;
+ }
+
+.title{
+    position: absolute;
+    top: 73px;
+    left: 127px;
+    width: 820px;
+    height: 124px;
+    background-color: rgb(255, 204, 65);
+    border-radius: 60px;
+    
+    text-align: center;
+    line-height: 124px;
+    font-size: 86px;
+    font-family: "Geometr415 Blk BT";
+    color: rgba(0, 154, 61, 1);
+}
+
+.subtitle{
+    font-family: Bahnschrift;
+    font-size: 66px;
+    position: relative;
+    top: 208px;
+    text-align: center;
+    color: rgb(255, 204, 65);
+}
+
+.pill{
+    position: absolute;
+    width: 35.6px;
+    height: 68.5px;
+    border-radius: 17.8px;
+    top: 100px;
+}
+
+.left{
+    background-color: rgb(0, 0, 255);
+    left: 46px;
+    transform: rotate(25.8deg);
+}
+
+.mini_pill{
+    position: absolute;
+    width: 9px;
+    height: 17px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 4.4px;
+    top: 7.77px;
+}
+ 
+.l{
+    left: 5px;
+}
+
+.right{
+    background-color: rgb(255, 0, 0);
+    left: 998.4px;
+    transform: rotate(334.2deg);
+}
+
+.r{
+    left: 21.6px;
+}
+
+
+main{
+    position: absolute; 
+    top: 336px;
+    background: rgb(255, 255, 255);
+    height: 996px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+section{
+    position: absolute;
+    top: 21.5px;
+    width: 445px;
+    height: 445px;
+    border: 5px solid rgb(255, 204, 65);
+    border-radius: 50px;
+}
+
+.S1{
+    left: 62.5px;
+}
+
+.S2{
+    left: 562.5px;
+}
+
+.S3{
+    top: 520.5px;
+}
+
+
+.img_align{
+    position: absolute;
+    top: 31px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.prohibited_circle{
+    position: absolute;
+    top: 46px;
+    width: 220px;
+    height: 220px;
+    border: 20px solid rgb(255, 0, 0);
+    border-radius: 220px;
+}
+
+.prohibited_ret{
+    position: absolute;
+    top: -10px;
+    left: 100px;
+    width: 20px;
+    height: 240px;   
+    background-color: rgb(255, 0, 0);
+    transform: rotate(315deg);
+}
+
+article{
+    left: 14%;
+    position: absolute;
+    text-align: center;
+    font-size: 41px;
+    font-family: Bahnschrift, Calibri, sans-serif;
+    color: rgb(0, 154, 61);
+    
+    width: 320px;
+    bottom: 9.7%;
+}
+
+footer{
+    position: absolute;
+    top: 1332px;
+    height: 152.5px;
+    width: 100%;
+    border-top: 8px solid rgb(255, 204, 65); 
+    margin: 0;
+ }
+
+p{
+    position: absolute;
+    font-family: "Embassy BT", Calibri, sans-serif;
+    font-size: 49px;
+    left: 65px;   
+}
+
+#ret{
+    position: absolute;
+    left: 648px;
+    top: 39px;
+    width: 3px;
+    height: 85px;
+    background-color: rgb(0, 0, 0);
+}
+
+#IF{
+    position: absolute;
+    right: 40px;
+    top: 30px
+}
